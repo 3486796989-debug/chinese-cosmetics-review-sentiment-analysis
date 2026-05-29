@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+matplotlib
+jieba
+wordcloud
+scikit-learn
+stopwordsiso
+lime
+scipy
+tqdm
+openpyxl
+jupyter
