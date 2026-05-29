@@ -52,7 +52,6 @@ The notebook expects the following Excel files to be placed in the same director
 
 These raw data files are not included in this repository if they contain private, copyrighted, or large-scale review data.
 
-## How To Run
 
 ## How To Run
 
