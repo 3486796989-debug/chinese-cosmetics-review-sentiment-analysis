@@ -54,7 +54,18 @@ These raw data files are not included in this repository if they contain private
 
 ## How To Run
 
+## How To Run
+
 Install the required packages:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Then open the notebook:
+
+```bash
+jupyter notebook "姚隆浚-week 7.ipynb"
+```
+
+Run the notebook cells sequentially after placing the required Excel data files in the project directory.
