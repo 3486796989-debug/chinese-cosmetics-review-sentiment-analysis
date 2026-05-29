@@ -33,7 +33,10 @@ Evaluation metrics include accuracy, precision, recall, F1 score, classification
 
 - `姚隆浚-week 7.ipynb`  
   Main Jupyter Notebook containing the full analysis workflow.
-
+  
+- `src/sentiment_analysis.py`  
+  Clean Python script version of the main machine-learning workflow.
+  
 - `requirements.txt`  
   Python dependencies required to run the notebook.
 
